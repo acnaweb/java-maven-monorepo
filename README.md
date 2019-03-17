@@ -3,5 +3,7 @@ Estrutura para criacao de um projeto jar em maven
 
 ## clonar este repositório com o nome do seu projeto
 
+Exemplo:
+nome do projeto = meu-projeto
 
-git@github.com:acnaweb/maven-demo-jar.git projeto-java
+git clone git@github.com:acnaweb/maven-demo-jar.git meu-projeto
